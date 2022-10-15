@@ -1,7 +1,6 @@
 # node-api-demo
 
-## start 
-
+## start
 
 ```bash
 
@@ -11,7 +10,6 @@ pnpm install
 
 cp .env.example .env
 
-
-pnpm run dev 
+pnpm run dev
 
 ```
